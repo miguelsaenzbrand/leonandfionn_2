@@ -38,3 +38,19 @@ body,
     font-size: 7vw;
     
   }
+
+  a:hover{
+    color: darkslategray;
+
+  }
+
+  :active{
+    color: #212529}
+
+  a:visited{
+    color: #212529;
+  }
+
+  a:visited{
+    color: #212529;
+  }
