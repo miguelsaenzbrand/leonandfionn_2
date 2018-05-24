@@ -36,7 +36,16 @@ body,
   .textoCuerpo{
     font-family: 'Lora';
     font-size: 7vw;
-    
+  }
+
+  .tituloMarcas{
+    font-family: 'Lora';
+    font-size: 4vw;
+    text-align: center;
+    }
+
+  .textoMarcas{
+    font-family: 'Lora';
   }
 
   a:hover{
