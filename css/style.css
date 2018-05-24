@@ -40,9 +40,15 @@ body,
 
   .tituloMarcas{
     font-family: 'Lora';
-    font-size: 4vw;
+    font-size: 5vw;
     text-align: center;
     }
+
+    .tituloMarcas2{
+      font-family: 'Lora';
+      font-size: 4vw;
+      text-align: center;
+      }  
 
   .textoMarcas{
     font-family: 'Lora';
