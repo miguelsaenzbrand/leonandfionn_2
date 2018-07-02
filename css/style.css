@@ -38,6 +38,12 @@ body,
     font-size: 7vw;
   }
 
+  .textoContact{
+    font-family: 'Lora';
+    font-size: 3vw;
+    text-align: center;
+  }
+
   .tituloMarcas{
     font-family: 'Lora';
     font-size: 5vw;
@@ -48,7 +54,7 @@ body,
       font-family: 'Lora';
       font-size: 4vw;
       text-align: center;
-      }  
+      }
 
   .textoMarcas{
     font-family: 'Lora';
